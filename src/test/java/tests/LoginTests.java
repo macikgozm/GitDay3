@@ -16,6 +16,7 @@ import java.util.concurrent.TimeUnit;
 // Login tests are maintened here
 //without Page object Approach
 // Mehmet Acikgoz
+// Added for the test for the mehmet branch
 
 public class LoginTests {
 
